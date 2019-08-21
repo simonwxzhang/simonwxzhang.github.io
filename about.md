@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a Senior Analyst at RBC on the Loss Mitigation team under Portfolio Management and Credit Strategies. My team uses data driven strategies and predictive analytics to reduce losses for RBC retail portfolio.
+I am a Senior Analyst at RBC on the Loss Mitigation team within Portfolio Management and Credit Strategies. My team uses data driven strategies and predictive analytics to reduce losses for the RBC retail portfolio.
 
 ### More Information
 
