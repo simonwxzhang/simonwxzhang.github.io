@@ -11,4 +11,4 @@ I also happen to enjoy rock climbing and I am a huge Raptors fan.
 
 ### Contact me
 
-[https://www.linkedin.com/in/simonwenxizhang/](url: https://www.linkedin.com/in/simonwenxizhang/)
+[https://www.linkedin.com/in/simonwenxizhang/](url:https://www.linkedin.com/in/simonwenxizhang/)
