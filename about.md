@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+I am a Senior Analyst at RBC on the Loss Mitigation team under Portfolio Management and Credit Strategies. My team uses data driven strategies and predictive analytics to reduce losses for RBC retail portfolio.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also happen to enjoy rock climbing and I am a huge Raptors fan.
 
 ### Contact me
 
